@@ -1,20 +1,20 @@
 # Tools-Web-Developer
 ---------------------
-Tools & Website Pendukung untuk Programmer & Web Developer
-undraw.co // gambar ilustrasi
-usesmash.com // 
-fonts.google.com //
-flaticon.com //
-fontawesome.com //
-figma.com //
-wireframe.cc //
-mockuphone.com //
-coolors.co //
-color.adobe.com //
-squoosh.app //
-remove.bg //
-pastebin.com //
-devdocs.io // dokumentasi lengkap dev
-devhints.io //
-deribbel.com // 
-awwwards.com //
+Tools & Website Pendukung untuk Programmer & Web Developer <br>
+undraw.co // gambar ilustrasi <br>
+usesmash.com // <br>
+fonts.google.com // <br>
+flaticon.com // <br>
+fontawesome.com // <br>
+figma.com // <br>
+wireframe.cc // <br>
+mockuphone.com // <br>
+coolors.co // <br>
+color.adobe.com // <br>
+squoosh.app // <br>
+remove.bg // <br>
+pastebin.com // <br> 
+devdocs.io // dokumentasi lengkap dev <br>
+devhints.io // <br>
+deribbel.com //  <br>
+awwwards.com // <br>
